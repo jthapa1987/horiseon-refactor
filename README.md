@@ -32,7 +32,7 @@ This project ensures the site meets modern web standards and provides an inclusi
 
 
 ## 🌐 Live Website
-(Insert your GitHub Pages link here)
+👉 https://jthapa1987.github.io/horiseon-refactor/
 
 ---
 
